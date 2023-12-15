@@ -28,5 +28,28 @@ F008 The system can provide reminders for shopping<br>
 F009 The system must provide shopping list history<br>
 
 # installation
+Step of installing ShopWise :
+1. open the apache directory on  "C:\xampp\htdocs"
 
-1. 
+2. Create folder with name "shopwise"
+
+3. Download "ShopWise"  file from this repository
+
+4. Place all the file to "shopwise" folder
+
+5. For the administrator page, extract "admin.rar" to "shopwise" folder
+
+6. after that open xampp control panel, turn on apache service and sql service
+
+7. open on your browser with this link ->  http://localhost/shopwise/
+
+Step of installing database :
+1. Install Xampp Control Panel on <a href="https://www.apachefriends.org/download.html">this link</a>
+
+2. If Xampp Control panel Is already installed ,  Open  control Panel Phpmyadmin or http://localhost/phpmyadmin/index.php?route=/
+
+3. Create new database with name "shopwise"
+
+4. After creating the database, import sql from "db_shopwise" folder
+
+5. if succeeded, the database will automatically connect 
