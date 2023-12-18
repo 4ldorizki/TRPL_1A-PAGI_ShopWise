@@ -14,7 +14,7 @@ Member of Team   :
 
 # General Description
 
-In everyday life, many housewives and traders find it difficult to remember their purchases, which often change from time to time. Apart from that, they also need the ability to rearrange the order of items and monitor which items have been purchased or not. They need a solution that can help manage their shopping list easily and efficiently. The ShopWise application is the 
+The ShopWise app is a web-based platform designed to help users in managing their shopping activities online. This application was created with the aim of helping users manage their shopping lists, so that users can be more productive in organizing their shopping and giving activities more efficient shopping experience.
 
 # Functional Requirements
 F001 The system must have a registration feature for users who want to use the application<br>
